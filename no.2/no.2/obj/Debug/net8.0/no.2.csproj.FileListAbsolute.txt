@@ -1,0 +1,14 @@
+C:\Users\leuta\source\repos\no.2\no.2\bin\Debug\net8.0\no.2.exe
+C:\Users\leuta\source\repos\no.2\no.2\bin\Debug\net8.0\no.2.deps.json
+C:\Users\leuta\source\repos\no.2\no.2\bin\Debug\net8.0\no.2.runtimeconfig.json
+C:\Users\leuta\source\repos\no.2\no.2\bin\Debug\net8.0\no.2.dll
+C:\Users\leuta\source\repos\no.2\no.2\bin\Debug\net8.0\no.2.pdb
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\no.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\no.2.AssemblyInfoInputs.cache
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\no.2.AssemblyInfo.cs
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\no.2.csproj.CoreCompileInputs.cache
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\no.2.dll
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\refint\no.2.dll
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\no.2.pdb
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\no.2.genruntimeconfig.cache
+C:\Users\leuta\source\repos\no.2\no.2\obj\Debug\net8.0\ref\no.2.dll
